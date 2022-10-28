@@ -49,9 +49,9 @@ pip install tqdm transformers sklearn pandas numpy glob accelerate sentencepiece
 
 Download the **MedVidQA** dataset from [here ](mailto:wengsyx@gmail.com?subject=Get%20MedVidCQA%20Dataset)
 
-Download the **TutorialVQA** dataset from [here ](mailto:wengsyx@gmail.com?subject=Get%20MedVidCQA%20Dataset)
+Download the **TutorialVQA** dataset from [here ](mailto:wengsyx@gmail.com?subject=Get%20TutorialVQA%20Dataset)
 
-Download the **VehicleVQA** dataset from [here ](mailto:wengsyx@gmail.com?subject=Get%20MedVidCQA%20Dataset)
+Download the **VehicleVQA** dataset from [here ](mailto:wengsyx@gmail.com?subject=Get%20VehicleVQA%20Dataset)
 
 
 
