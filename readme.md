@@ -62,22 +62,10 @@ place them in `./data` directory.
 ### Get Best
 
 ```shell script
-bash run.sh
+python main.py
 ```
 
 > All our hyperparameters are saved to  `run.sh` file, you can easily reproduce our best results.
-
-### Try it yourself
-
-
-
-```shell script
-python main.py 
-```
-
-> In this phase, training and testing will be carried out.
->
-> In addition, after each round of training, it will be tested in the valid and test sets. In our paper, we report the model with the highest valid set and its score in the test set
 
 
 
