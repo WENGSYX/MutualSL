@@ -1,4 +1,4 @@
-# Cross-modal Contrastive Global-Span
+# MutualSL
 
 
 
@@ -90,3 +90,14 @@ python main.py
 - we propose the MutualSL method, which for the first time uses two different predictors in VAL tasks meanwhile, and uses a Look-up Table to achieve cross-modal knowledge transfer; 
 - We design ODL to dynamically adjust the knowledge transfer, which can alleviate the differences in knowledge transfer between different predictors
 - We have conducted extensive experiments to prove the effectiveness of the MutualSL, where results show that the proposed method outperforms all other competitive SOTA methods in VAL tasks.
+
+## Cite
+
+```@article{weng2022visual,
+  title={Visual Answer Localization with Cross-modal Mutual Knowledge Transfer},
+  author={Weng, Yixuan and Li, Bin},
+  journal={arXiv preprint arXiv:2210.14823},
+  year={2022}
+}
+
+```
