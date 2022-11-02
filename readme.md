@@ -93,7 +93,8 @@ python main.py
 
 ## Cite
 
-```@article{weng2022visual,
+```
+@article{weng2022visual,
   title={Visual Answer Localization with Cross-modal Mutual Knowledge Transfer},
   author={Weng, Yixuan and Li, Bin},
   journal={arXiv preprint arXiv:2210.14823},
